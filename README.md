@@ -2,7 +2,7 @@
 
 #Live Application URL
 
-The Application is deployed in https://github.com/vinaypati/Nodettest
+The Application is deployed in https://github.com/vinaypati/Nodetest
 
 Click on the link to see the application
 
